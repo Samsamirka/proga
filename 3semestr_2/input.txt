@@ -1,0 +1,5 @@
+struct Person{
+	int age = 10;
+	char name;
+	float height;
+	}
